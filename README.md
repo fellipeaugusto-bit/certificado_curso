@@ -14,63 +14,24 @@
 
 ---
 
-## 👥 Equipe de Autores e Participantes
 
-### 👥 Alunos
+### 👥 Aluno
 
-* [Integrante 1](https://www.linkedin.com/in/.../)
-* [Integrante 2](https://www.linkedin.com/in/.../)
-* [Integrante 3](https://www.linkedin.com/in/.../)
-* [Integrante 4](https://www.linkedin.com/in/.../)
-* [Integrante 5](https://www.linkedin.com/in/.../)
+* Fellipe Augusto Rodrigues de Menezes
 
-### 👔 Docentes e Orientação
+### 👔 Orientador
 
 * **Orientador(a):** [FRANCISMAR ALVES MARTINS JUNIOR](https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/)
-* **Coordenador(a):** [Nome do Coordenador(a)](#)
 
 ---
-
-## 🔬 1️⃣ Modelo para Pesquisa e Relatórios Científicos
-
-### 📝 Resumo
-
-> Texto conciso (150–250 palavras) apresentando o contexto, motivação, método utilizado e conclusões.
-
-### 🎯 Palavras‑chave
-
-Ex.: Anomalia, Classificação, Machine Learning, Eficiência Computacional.
-
-### 🕹️ Introdução
-
-* Contextualização e importância do estudo.
-* Problema identificado.
-* Objetivos e escopo.
-
-### ⚡️ Metodologia
-
-* Descrição dos métodos e técnicas aplicadas.
-* Linguagem e Frameworks usados (Ex.: Python, Scikit‑Learn).
-* Etapas do experimento e critérios de avaliação.
-
-### 📊 Resultados e Discussões
-
-* Apresentação dos dados obtidos (tabelas, gráficos).
-* Análises e comparações com trabalhos correlatos.
-
-### 🏁 Conclusões e Trabalhos Futuros
-
-* Resultado final e impacto esperado.
-* Limitações do estudo atual e caminhos para futuras pesquisas.
-
-### 📚 Referências Bibliográficas
-
-> Listagem de artigos, livros e demais fontes citadas (ABNT, APA ou outro padrão requerido).
 
 ### ⚡️ Anexos e Links
 
 * Scripts, dataset e demais arquivos de suporte (`src/` e `documents/other/`).
 * Link para vídeo de demonstração no YouTube (se aplicável).
+* [Documento Cisco](documentos/cisco.pdf)
+
+<img src="assets/cisco.png" alt="Cisco" width="200"/>
 
 ---
 
