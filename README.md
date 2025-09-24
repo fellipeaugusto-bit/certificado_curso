@@ -10,7 +10,7 @@
 
 > CERTIFICADO DO CURSO DA CISCO ACADEMY
 
-![status](https://img.shields.io/badge/status-em%20andamento-yellow)
+![status](https://img.shields.io/badge/status-COMPLETO-GREEN)
 
 ---
 
