@@ -16,7 +16,7 @@
 
 
 ### 👥 Aluno
- 
+
 * Fellipe Augusto Rodrigues de Menezes
 
 ### 👔 Orientador
@@ -27,9 +27,11 @@
 
 ### ⚡️ Anexos e Links
 
-* [Cisco Networking Academy - My Certificates (PDF)](documentos/Cisco%20Networking%20Academy_%20My%20Certificates.pdf)
+* [Cisco Networking Academy - My Certificates (PDF)](documentos/Cisco_Networking_Academy_My_Certificates.pdf)
 
-<img src="assets/certificado.png" alt="certificado" width="200"/>
+<p align="center">
+  <img src="assets/certificado.png" alt="Certificado" width="60%" />
+</p>
 
 ---
 
