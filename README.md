@@ -31,8 +31,9 @@
 * Link para vídeo de demonstração no YouTube (se aplicável).
 * [Documento Cisco](documentos/cisco.pdf)
 
-<img src="assets/certificado_cisco.png" alt="Certificado Cisco" width="60%" />
-
+<p align="center">
+  <img src="assets/certificado" alt="certificado" border="0" width="70%" /></a>
+</p>
 
 ---
 
