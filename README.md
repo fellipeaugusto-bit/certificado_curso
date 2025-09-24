@@ -29,9 +29,7 @@
 
 * [Certificado do Curso (PDF)](documentos/certificado%20do%20curso.pdf)
 
-<p align="center">
-  <img src="assets/print_certificado_curso.PNG" alt="Certificado do Curso" width="200%" />
-</p>
+* <img src="assets/print_certificado_curso.PNG" alt="Certificado do Curso" width="200%" />
 
 ---
 
