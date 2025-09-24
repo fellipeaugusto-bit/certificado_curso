@@ -8,7 +8,7 @@
 
 ## 📌 Título do Projeto
 
-> Breve linha de destaque ou slogan técnico do projeto.
+> CERTIFICADO DO CURSO DA CISCO ACADEMY
 
 ![status](https://img.shields.io/badge/status-em%20andamento-yellow)
 
@@ -40,7 +40,7 @@
 ### 📄 Identificação
 
 * Disciplina: Ex.: Engenharia de Software, IA, Banco de Dados
-* Professor(a): [Nome do Professor(a)](#)
+* Professor(a): [FRANCISMAR ALVES MARTINS JUNIOR](#)
 
 ### 🎯 Tema e Contextualização
 
