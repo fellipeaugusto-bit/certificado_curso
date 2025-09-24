@@ -31,7 +31,7 @@
 * Link para vídeo de demonstração no YouTube (se aplicável).
 * [Documento Cisco](documentos/cisco.pdf)
 
-<img src="assets/cisco.png" alt="Cisco" width="200"/>
+<img src="document/curso/cisco.png" alt="Cisco" width="200"/>
 
 ---
 
