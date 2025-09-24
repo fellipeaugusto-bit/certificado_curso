@@ -29,7 +29,7 @@
 
 * Scripts, dataset e demais arquivos de suporte (`src/` e `documents/other/`).
 * Link para vídeo de demonstração no YouTube (se aplicável).
-* [Documento Cisco](documentos/cisco.pdf)
+* [Documento Cisco](documentos/certificado_cisco.pdf)
 
 <img src="document/curso/certificado.png" alt="certificado" width="200"/>
 
