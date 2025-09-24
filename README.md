@@ -16,7 +16,7 @@
 
 
 ### 👥 Aluno
-
+ 
 * Fellipe Augusto Rodrigues de Menezes
 
 ### 👔 Orientador
@@ -31,7 +31,7 @@
 * Link para vídeo de demonstração no YouTube (se aplicável).
 * [Documento Cisco](documentos/certificado_cisco.pdf)
 
-<img src="document/curso/certificado.png" alt="certificado" width="200"/>
+<img src="document/curso/certificado" alt="certificado" width="200"/>
 
 ---
 
