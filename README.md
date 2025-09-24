@@ -27,7 +27,7 @@
 
 ### ⚡️ Anexos e Links
 
-* [Cisco Networking Academy - My Certificates (PDF)](documentos/Cisco_Networking_Academy_My_Certificates.pdf)
+* [Certificado do Curso (PDF)](documentos/certificado_curso.pdf)
 
 <p align="center">
   <img src="assets/certificado.png" alt="Certificado" width="200%" />
