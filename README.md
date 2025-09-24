@@ -27,10 +27,10 @@
 
 ### ⚡️ Anexos e Links
 
-* [Certificado do Curso (PDF)](documentos/certificado_curso.pdf)
+* [Certificado do Curso (PDF)](documentos/certificado%20do%20curso.pdf)
 
 <p align="center">
-  <img src="assets/certificado_cisco.png" alt="Certificado Cisco" width="70%" />
+  <img src="assets/certificado.png" alt="Certificado" width="200%" />
 </p>
 
 ---
