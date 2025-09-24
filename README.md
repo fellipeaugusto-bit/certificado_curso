@@ -30,7 +30,7 @@
 * [Certificado do Curso (PDF)](documentos/certificado_curso.pdf)
 
 <p align="center">
-  <img src="assets/certificado.png" alt="Certificado" width="200%" />
+  <img src="assets/certificado_cisco.png" alt="Certificado Cisco" width="70%" />
 </p>
 
 ---
