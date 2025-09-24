@@ -29,7 +29,9 @@
 
 * [Certificado do Curso (PDF)](documentos/certificado%20do%20curso.pdf)
 
-  <img src="assets/print_certificado_curso.PNG" alt="Certificado Cisco Academy" width="200%" />
+<p align="center">
+  <img src="assets/certificado.png" alt="Certificado do Curso" width="70%" />
+</p>
 
 ---
 
