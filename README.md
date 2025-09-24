@@ -27,9 +27,7 @@
 
 ### ⚡️ Anexos e Links
 
-* Scripts, dataset e demais arquivos de suporte (`src/` e `documents/other/`).
-* Link para vídeo de demonstração no YouTube (se aplicável).
-* [Documento Cisco](documentos/certificado_cisco.pdf)
+* [Cisco Networking Academy - My Certificates (PDF)](documentos/Cisco%20Networking%20Academy_%20My%20Certificates.pdf)
 
 <img src="assets/certificado.png" alt="certificado" width="200"/>
 
