@@ -16,7 +16,7 @@
 
 
 ### 👥 Aluno
-
+ 
 * Fellipe Augusto Rodrigues de Menezes
 
 ### 👔 Orientador
@@ -29,11 +29,9 @@
 
 * Scripts, dataset e demais arquivos de suporte (`src/` e `documents/other/`).
 * Link para vídeo de demonstração no YouTube (se aplicável).
-* [Documento Cisco](documentos/cisco.pdf)
+* [Documento Cisco](documentos/certificado_cisco.pdf)
 
-<p align="center">
-  <img src="assets/certificado.png" alt="certificado" border="0" width="70%" /></a>
-</p>
+<img src="assets/certificado.png" alt="certificado" width="200"/>
 
 ---
 
