@@ -30,7 +30,7 @@
 * [Cisco Networking Academy - My Certificates (PDF)](documentos/Cisco_Networking_Academy_My_Certificates.pdf)
 
 <p align="center">
-  <img src="assets/certificado.png" alt="Certificado" width="60%" />
+  <img src="assets/certificado.png" alt="Certificado" width="200%" />
 </p>
 
 ---
