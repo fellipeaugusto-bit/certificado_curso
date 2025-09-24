@@ -32,7 +32,7 @@
 * [Documento Cisco](documentos/cisco.pdf)
 
 <p align="center">
-  <img src="assets/certificado" alt="certificado" border="0" width="70%" /></a>
+  <img src="assets/certificado.png" alt="certificado" border="0" width="70%" /></a>
 </p>
 
 ---
